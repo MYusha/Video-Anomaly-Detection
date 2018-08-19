@@ -1,9 +1,9 @@
-# Video_Anomaly_Detection
+# Video Anomaly Detection
 
 This is code for BMVC 2018 submission #237:
 *Classifier Two-Sample Test for Video Anomaly Detections*
 
-####Requirements
+#### Requirements
 The code is written in Matlab, and used with Matlab 2017a in a laptop with MacOS system
 
 #### Run the script
