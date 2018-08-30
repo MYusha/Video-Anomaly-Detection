@@ -20,7 +20,7 @@ matlab (files included). And download pretrained vgg [model](http://www.vlfeat.o
 ## Dataset preparation
 Please put the
 [Avenue datatset](http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html)
-from CUHK inside `Avenue_Dataset` folder.
+from CUHK inside the `/Avenue_Dataset` folder.
 
 ## Instuctions
 **Generate scores:** 
