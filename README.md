@@ -13,7 +13,7 @@ $ git clone https://github.com/MYusha/Video-Anomaly-Detection
 
 **Requirements:** The code is written in Matlab 2017a, and used with laptop with MacOS. Please first install
 [liblinear](https://www.csie.ntu.edu.tw/~cjlin/liblinear/)
-matlab (files included). And download [imagenet](http://www.vlfeat.org/matconvnet/pretrained/) to put inside `PrepareData/Appearance_feature/` for appearance feature extraction.
+matlab (files included). And download pretrained vgg model [imagenet](http://www.vlfeat.org/matconvnet/pretrained/) to put inside `PrepareData/Appearance_feature/` for appearance feature extraction.
 
 **Specification:** The functions for motion features computation are modified from re-implementation in https://github.com/gongruya/abnormality-detection.
 
