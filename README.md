@@ -15,7 +15,7 @@ $ git clone https://github.com/MYusha/Video-Anomaly-Detection
 [liblinear](https://www.csie.ntu.edu.tw/~cjlin/liblinear/)
 matlab. And put [imagenet](http://www.vlfeat.org/matconvnet/pretrained/) inside `PrepareData/Appearance_feature/` for appearance feature extraction.
 
-**Specification:** The functions for motion features computation are modified from re-implementation in [https://github.com/gongruya/abnormality-detection].
+**Specification:** The functions for motion features computation are modified from re-implementation in https://github.com/gongruya/abnormality-detection.
 
 ## Dataset preparation
 Please put the
