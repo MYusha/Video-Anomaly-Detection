@@ -1,8 +1,8 @@
 # Video Anomaly Detection
 
-This repo contains the example code for the paper*Classifier Two-Sample Test for Video Anomaly Detections*(BMVC 2018)
+This repo contains the example code for the paper *Classifier Two-Sample Test for Video Anomaly Detections*(BMVC 2018)
 
-(Links coming soon)
+(Links and Citation coming soon)
 
 ## Using the code
 * Download package:
@@ -14,6 +14,8 @@ $ git clone https://github.com/MYusha/Video-Anomaly-Detection
 **Requirements:** The code is written in Matlab 2017a, and used with laptop with MacOS. Please first install
 [liblinear](https://www.csie.ntu.edu.tw/~cjlin/liblinear/)
 matlab. And put [imagenet](http://www.vlfeat.org/matconvnet/pretrained/) inside `PrepareData/Appearance_feature/` for appearance feature extraction.
+
+**Specification:** The functions for motion features computation are modified from re-implementation in [https://github.com/gongruya/abnormality-detection].
 
 ## Dataset preparation
 Please put the
