@@ -1,8 +1,8 @@
 # C2ST for Video Anomaly Detection
 
-This repo contains the example code for the paper *Classifier Two-Sample Test for Video Anomaly Detections*(BMVC 2018)
+This repo contains the example code for BMVC2018 paper [Classifier Two-Sample Test for Video Anomaly Detections]
+(http://bmvc2018.org/contents/papers/0237.pdf).
 
-(Links and Citation coming soon)
 
 ## Using the code
 * Download package:
