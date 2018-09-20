@@ -4,7 +4,26 @@ This repo contains the example code for BMVC2018 paper
 [Classifier Two-Sample Test for Video Anomaly Detections](http://bmvc2018.org/contents/papers/0237.pdf).
 
 It contains some implementation based on instructions in [this paper](https://arxiv.org/pdf/1705.08182.pdf) since 
-its code is not available.
+its code is not available. If yiou find our paper of this implementation is useful to your research, please cite
+
+<table border="0" cellspacing="15" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<pre>			
+@article{liu2018classifier,
+    title={Classifier Two-Sample Test for Video Anomaly Detections},
+    author={Yusha Liu and 
+        Chun-Liang Li and 
+        Barnab{\'a}s P{\'o}czos},
+    journal={arXiv preprint arXiv:1703.09912},
+    year={2018}
+}
+</pre>
+</tbody>
+</table>
+
+
 
 ## Using the code
 * Download package:
