@@ -11,12 +11,12 @@ its code is not available. If yiou find our paper of this implementation is usef
 <tr>
 <td>
 <pre>			
-@article{liu2018classifier,
+@inproceedings{liu2018classifier,
     title={Classifier Two-Sample Test for Video Anomaly Detections},
     author={Yusha Liu and 
         Chun-Liang Li and 
         Barnab{\'a}s P{\'o}czos},
-    journal={BMVC},
+    booktitle={BMVC},
     year={2018}
 }
 </pre>
