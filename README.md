@@ -16,7 +16,7 @@ its code is not available. If yiou find our paper of this implementation is usef
     author={Yusha Liu and 
         Chun-Liang Li and 
         Barnab{\'a}s P{\'o}czos},
-    journal={arXiv preprint arXiv:1703.09912},
+    journal={BMVC},
     year={2018}
 }
 </pre>
