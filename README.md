@@ -4,7 +4,7 @@ This repo contains the example code for BMVC2018 paper
 [Classifier Two-Sample Test for Video Anomaly Detections](http://bmvc2018.org/contents/papers/0237.pdf).
 
 It contains some implementation based on instructions in [this paper](https://arxiv.org/pdf/1705.08182.pdf) since 
-its code is not available. If yiou find our paper of this implementation is useful to your research, please cite
+its code is not available. If you find our paper of this implementation is useful to your research, please cite
 
 <table border="0" cellspacing="15" cellpadding="0">
 <tbody>
@@ -41,7 +41,7 @@ matlab (files included). And download pretrained vgg [model](http://www.vlfeat.o
 ## Dataset preparation
 Please put the
 [Avenue datatset](http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html)
-from CUHK inside the `/Avenue_Dataset` folder.
+from CUHK inside the `/Avenue_Dataset` folder. Note that as mentioned we exclude the two videos which contains only abnormal events, since that contradicts with our assumption. 
 
 ## Instuctions
 **Generate scores:** 
